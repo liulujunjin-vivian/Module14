@@ -13,8 +13,8 @@
 ---   
 
 ### This is the data with DateOffset 9 months
-![9Month Report](Images/9MonthA.jpg)
-![9Month plot](Images/09MonthB.jpg)
+![9Month Report](Images/9MonthA.jpg)   
+![9Month plot](Images/9MonthB.jpg)   
 ---   
 
 ### Question and Answers
